@@ -24,6 +24,7 @@
   - [Adhoc Renaming](#adhoc-renaming)
 - [Preferences](#preferences)
   - [General](#general)
+
 # Quick Start
 ![Basics](./basics.gif)
 
