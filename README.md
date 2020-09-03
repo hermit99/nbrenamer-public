@@ -7,10 +7,10 @@ NB Renamer started as a personal tool to help tidy up file names, especially the
   - Auto preview any changes before the real renaming
   - Populate the values for you at the mouse cursor's position or selection
 ![Basics](public/help/basics.gif)
-- **One-click install, and other [features](public/help/releases.html)**...
+- **One-click install, and other [features](public/help/releases.md)**...
 
 Some useful links:
-- [Documentation](public/help/tips.html)
+- [Documentation](public/help/tips.md)
 - [Feature request / issues](https://github.com/hermit99/nbrenamer/issues)
 
 Or you can directly [contact me](mailto:nbrenamer@gmail.com). I'm keen to hear your feedback and make it better!

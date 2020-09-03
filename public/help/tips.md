@@ -1,5 +1,29 @@
-# NB Renamer
-[TOC]
+# NB Renamer <!-- omit in toc -->
+- [Quick Start](#quick-start)
+- [User Interface](#user-interface)
+  - [Light Theme](#light-theme)
+- [Basic Functions](#basic-functions)
+  - [Interactivities](#interactivities)
+  - [Batch Renaming](#batch-renaming)
+    - [Types](#types)
+    - [Common Parameters](#common-parameters)
+    - [Text](#text)
+      - [Operations](#operations)
+      - [Presets](#presets)
+      - [Parameters](#parameters)
+    - [Sequence](#sequence)
+      - [Operations](#operations-1)
+      - [Parameters](#parameters-1)
+    - [Date](#date)
+      - [Parameters](#parameters-2)
+    - [FixedLength](#fixedlength)
+  - [Batch Renaming Using a CSV File](#batch-renaming-using-a-csv-file)
+    - [Switch to CSV mode](#switch-to-csv-mode)
+    - [CSV format](#csv-format)
+    - [Delimiters](#delimiters)
+  - [Adhoc Renaming](#adhoc-renaming)
+- [Preferences](#preferences)
+  - [General](#general)
 # Quick Start
 ![Basics](./basics.gif)
 
@@ -24,7 +48,7 @@ You can choose the light theme in settings if you don't like the default dark th
 
 - **Mark differences** - Shows what will be deleted / added to the original name
 ![Mark difference](./preview-diff.png)  
-Turning off Mark differences will just show the end result
+Turning off Mark differences will just show the end result  
 ![Unmark difference](./preview-unmark.png)  
 
 ## Batch Renaming
@@ -45,7 +69,7 @@ Search from this index / position. When From end is ticked, it becomes negative 
 - **From end** - Match from the end of the name, i.e. from right to left. Or insert at end.  
 If not selected, it matches from the beginning of the text. E.g. the first *doc* is matched:
 ![Not From End](./not-from-end.png)
-While matching from end, the last *doc* is matched:
+While matching from end, the last *doc* is matched:  
 ![From End](./from-end.png)
 
 ### Text
@@ -58,7 +82,7 @@ Insert new word at particular position.
 #### Presets
 We built in some predefined rules for your convenience, such as:  
 - **Remove unnecessary chars**  
-  E.g. Quickly clean up:
+  E.g. Quickly clean up:  
   ![Preset](./preset-remove.png)
 
 - **Capitalize 1st Letter**
@@ -141,7 +165,7 @@ In some cases, you may find it convenient to define just a comma / tab delimiter
 ![CSV](./csv.png)
 
 ### Switch to CSV mode
-In menu `Settings -> Use file list (csv)`. To switch back, go `Settings -> Normal rename`.
+In menu `Settings -> Use file list (csv)`. To switch back, go `Settings -> Normal rename`.  
 ![CSV Mode](./csv-mode.png)
 
 ### CSV format
@@ -174,5 +198,3 @@ Automatically preview the result when any changes are made. Suggest to turn on.
 It looks more natural to have an alphanumeric order of A1, A2, A3, A10 than A1, A10, A2, A3. Suggest to turn on.
 - Reset to default  
 Restore default settings.
-
-

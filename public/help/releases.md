@@ -9,5 +9,7 @@
 Detailed manual [here](./tips.html).
 
 ## Releases
-2020-09-28 v0.1.0  
-- Initial release
+- 2020-09-28 v0.1.0  
+  Initial release
+- 2020-09-03 v0.1.0b  
+  Beta
