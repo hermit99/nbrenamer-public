@@ -4,12 +4,10 @@
 - Inline edit for quick sporadic non-pattern renaming
 - Rename by predefined csv file
 - Undo/Redo
-- Cross platform: Windows/Linux/MacOS
+- Cross platform: Windows/Linux (soon) /MacOS (in future)
 
 Detailed manual [here](./tips.html).
 
 ## Releases
-- 2020-09-28 v0.1.0  
+- 2020-09-18 v0.1.2  
   Initial release
-- 2020-09-03 v0.1.0b  
-  Beta

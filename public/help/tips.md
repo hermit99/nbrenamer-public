@@ -1,6 +1,8 @@
 # NB Renamer <!-- omit in toc -->
 - [Quick Start](#quick-start)
 - [User Interface](#user-interface)
+  - [Directory Navigation](#directory-navigation)
+  - [Multiple File Selection](#multiple-file-selection)
   - [Light Theme](#light-theme)
 - [Basic Functions](#basic-functions)
   - [Interactivities](#interactivities)
@@ -35,11 +37,18 @@
 2. **Preview Area** - Two-way interaction. 1) Changes in the Control Panel will be reflected in the Preview area. 2) Clicking or selecting file names populates values back to the Control Panel.
 3. **Control Panel** - Controls how you want the files to be named.
 
+## Directory Navigation
+- Go to the parent directory
+![Nav Up](./nav-up.png)
+- Go to the sub directory
+![Nav Down](./nav-down.png)
+## Multiple File Selection
+![Multi Selection](./ui-multiselect.png)
+To unselect multiple files, just repeat the above steps again.
 ## Light Theme
 You can choose the light theme in settings if you don't like the default dark theme. ☛ [General](#general)
 
 ![Light Theme](./light-theme.png)
-
 # Basic Functions
 ## Interactivities
 - **Click on file name** - Get cursor's position

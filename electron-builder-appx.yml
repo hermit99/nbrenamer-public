@@ -1,0 +1,7 @@
+directories:
+  output: dist_electron
+  buildResources: build
+  app: dist_electron/bundled
+win: 
+  target:
+    - target: appx
