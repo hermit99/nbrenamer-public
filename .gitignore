@@ -36,4 +36,5 @@ yarn-error.log*
 /.hgignore
 /sync.ffs_db
 /pack.ps1
+electron-builder-appx.yml
 electron-builder-appx-dev.yml
