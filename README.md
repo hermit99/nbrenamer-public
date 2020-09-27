@@ -6,7 +6,7 @@ Bearing the KISS (Keep it Simple, Stupid) principle, NB Renamer may not have the
 - **Minimal & Dynamic interface**
 ![Seq](public/help/seq.png)
 - **Intuitiveness and interactivity**
-  - Auto preview any changes before the real renaming
+  - Auto preview changes before the real renaming
   - Populate the values for you at the mouse cursor's position or selection
 ![Basics](public/help/basics.gif)
 - **Green and NO Ads, and other [features](public/help/releases.md)**...
