@@ -1,26 +1,27 @@
 # Why another batch renaming tool?
+
 NB Renamer started as a personal tool to help tidy up file names, especially the downloads ;).
-There are many free bulk renaming software on the internet, but like most users, I just need an easy-to-use gadget, not an aircraft cockpit.
-Bearing the KISS (Keep it Simple, Stupid) principle, NB Renamer may not have the most complicated functions, but I hope you'll find it useful in your toolbox and enjoy its
 
-- **Minimal & Dynamic interface**
-![Seq](public/help/seq.png)
-- **Intuitiveness and interactivity**
+There are many bulk renaming software on the internet, but NB Renamer is created towards simplicity, practicality and user friendness.
+
+Compared to some complex batch renaming tools that are busy as a cockpit, NB Renamer is:
+
+- **Concise and dynamic**
+- **Intuitive and interactive**
   - Auto preview changes before the real renaming
-  - Populate the values for you at the mouse cursor's position or selection
+  - Populate parameters when click or select
 ![Basics](public/help/basics.gif)
-- **Green and NO Ads, and other [features](public/help/releases.md)**...
+- **Green and NO Ads, with many other [features](public/help/releases.md)**...
 
-Some useful links:
-- [Documentation](public/help/tips.md)
-- [Feature request / issues](https://github.com/hermit99/nbrenamer/issues)
+You can find documentation [here](public/help/tips.md) and request feature or report issues [here](https://github.com/hermit99/nbrenamer/issues).
 
-Or you can directly [contact me](mailto:nbrenamer@gmail.com). I'm keen to hear your feedback and make it better!
+Alternatively you can [contact me](mailto:nbrenamer@gmail.com) directly and I'm keen to hear your feedback and make it better!
 
-# Your support is appreciated!
-NB Renamer is currently a [freeware](https://en.wikipedia.org/wiki/Freeware) (Free as in Beer), but it'll also become open source (Free as in Speech) in the future.  
+## Your support is greatly appreciated
+
+NB Renamer is a [freeware](https://en.wikipedia.org/wiki/Freeware) (Free as in Beer), and it may be open source in the future (Free as in Speech).  
 I hope you'll find it useful at times and appreciate your kindness to [Buy me a coffee](https://www.buymeacoffee.com/bl5s3cxyr)<a href="https://www.buymeacoffee.com/bl5s3cxyr"><img src="./public/icon/buymeacoffee.png"></a> to support this software.
 
 Thank you,
 
-Hermit@2020
+Hermit@2020-2022
